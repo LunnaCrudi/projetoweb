@@ -1,0 +1,68 @@
+
+    nav{
+        width: 100%;
+        height: 60px;
+        background: rgb(100,143,134);
+background: linear-gradient(0deg, rgba(100,143,134,1) 0%, rgba(117,149,108,1) 100%);
+    }
+    body{
+        background-image:url(img/background.png);
+        /*imagem de fundo*/
+    }
+    ul{
+        list-style: none;
+        padding-top: 20px;
+        /* o comando list style serve para tira os numeros ou as bolinhas*/
+        /* o padding é usado para texto e o margin para margem*/
+    }
+    li{
+        display: inline;
+        padding-left: 20px;
+        /*padding-left é usado para deixar os itens de lista espaçado*/
+        /*o display serve para deixar na horizontal ou vertical*/
+        /*aq é li por conta que é onde está escrito*/
+    }
+    li a{
+        color: #2d373b;
+    }
+    .esquerda a{
+        float: right;
+        color: #2d373b;
+        margin-right: 20px;
+        font-size: 30px;
+    }
+    p{
+        padding: 10px;
+        text-align: justify;
+        /* text-align é igual as funções de texto do word*/
+        /*padding é usado para arumar a margem do texto*/
+    }
+    .farleft{
+        width: 5%;
+        color: rgb(253, 253, 253);
+        background-color: rgb(112, 146, 135);
+        margin-right: 0% ;
+        margin-left: 0%;
+        margin-top: 40px;
+        font-size: 70px;
+    }
+    
+    .left{
+        /*aqui o wdth foi usado para definir a altura*/
+        width: 40%;
+        /*cor de fundo*/
+        background-color: rgb(112, 146, 135);
+        /*borda da div*/
+        /*border: 1px white;*/
+        margin-left: 10% ;
+        float: left;
+        margin-top: 20px;
+    }
+    .right{
+        width: 40%;
+        background-color: rgb(112, 146, 135);
+        float: right;
+        margin-right: 10%;
+        margin-top: 20px;
+    }
+    

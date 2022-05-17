@@ -1,0 +1,49 @@
+história do jogo
+The Last of Us é jogado a partir de uma perspectiva em terceira pessoa, com os jogadores usando armas de fogo, armas improvisadas e furtividade a fim de defenderem-se de humanos hostis e criaturas canibalísticas infectadas por uma mutação do fungo Cordyceps. Um "Modo de Escuta" permite a localização de inimigos por meio de uma escuta e percepção espacial aprimoradas. Armas podem ser melhoradas usando itens recolhidos do ambiente. Há um modo multijogador online em que até oito jogadores podem entrar em diferentes modos de partidas cooperativas ou competitivas.
+ imagem ellie e joel
+Jogabilidade
+The Last of Us é um jogo eletrônico pós-apocalíptico de ação-aventura e sobrevivência apresentado a partir de uma perspectiva em terceira pessoa. O jogador atravessa uma série
+ de ambientes arruinados, passando por locais variados como cidades, florestas, edifícios e esgotos a fim de avançar pela história. Armas de fogo, armas improvisadas e furtividade são usadas para derrotar humanos hostis e criaturas canibalísticas infectadas por uma mutação do fungo Cordyceps. O jogador controla durante a maior parte da história o personagem de Joel, um homem encarregado de escoltar uma garota chamada Ellie através dos Estados Unidos; ela e outros companheiros ocasionais encontrados no decorrer da narrativa são controlados pela inteligência artificial. Ellie torna-se temporariamente a personagem jogável durante um único segmento da história.
+O jogador usa no combate tanto armas de longo alcance (como rifles, espingardas e arcos) quanto de curto alcance (como pistolas, revólveres e espingardas curtas); também é possível utilizar armas brancas (como canos e tacos de beisebol). Garrafas e tijolos podem ser jogados para distrair, tontear ou atacar inimigos. The Last of Us possui um sistema de criação que permite que o jogador aprimore armas em mesas de trabalho usando itens coletados nos ambientes. Equipamentos como kits médicos e coquetéis Molotov podem ser encontrados ou produzidos com os materiais recolhidos. Habilidades físicas, como o tamanho do medidor de saúde e velocidade de criação, podem ser melhoradas ao coletar pílulas e plantas medicinais. O medidor de saúde do jogador pode ser recarregado por meio de kits médicos caso o personagem tome algum dano.
+Cordyceps
+A principal característica do Cordyceps é que ele repõe o tecido do seu hospedeiro, criando um
+aspecto de cogumelo, e pode controlar o comportamento do animal. A infecção que atormenta o
+mundo pós-apocalíptico de The Last of Us é o Cordyceps do tipo Ophiocordyceps unilateralis,
+também chamado de “fungo zumbi”. No primeiro jogo, o Cordyceps conta com 4 estágios bem
+definidos sendo eles, “runners”;”stalkers”;”clickers”;”bloaters”. Esses nomes são dados conforme
+o tempo de infecção de cada indivíduo, também é importante ressaltar que o vírus conseguiu
+matar 60% da população mundial no jogo.
+Infectado
+Infectado são humanos que foram infectados e posteriormente mutados em horríveis novas formas pela Infecção do cérebro de Cordyceps. As criaturas resultantes são altamente agressivas e atacam qualquer humano não infectado à vista.
+Os infectados são um dos principais tipos de inimigos em The Last of Us, Left Behind e The Last of Us Part II, o outro sendo os inimigos humanos.
+Corredores (Runners)
+Os corredores são o primeiro e mais fraco estágio dos infectados que recentemente entraram em sua transformação. As pessoas que foram infectadas entrarão nesse estágio dentro de 1-2 dias, com aumento da irritabilidade e hostidade em relação aos outros, sendo um sintoma chave.
+Espreitadores (Stalkers)
+Os estaladores são o segundo estágio da infecção. Eles têm a visão e a velocidade dos corredores, com a ferocidade dos Estaladores. Os traços físicos mais notáveis que definem os Perseguidores são os distintos ruídos que eles fazem, o início dos crescimentos dos fundos na cabeça e no rosto com apenas um olho sobrando, o desenvolvimento de pseudo-ecolocalização e sua discrição ao avistar uma vítima à distância.
+Estaladores (Clickers)
+Os estaladores são o terceiro estágio dos infectados e demoram aproximadamente um ano
+para atingir esse estágio de infecção. Eles tiveram exposição prolongada ao fungo e agora
+possuem uma força que supera significativamente a média humana. Isso os torna mais
+mortais, mas ao preço de serem completamente cegos devido à infecção por fungos que
+toma conta de seu rosto. No entanto, os Estaladores são capazes de manobrar por áreas
+utilizando a ecolocalização, que produz ruídos visível de clique/guinchar para localizar fontes
+de som, daí o nome. Como os corredores, os Estaladores ás vezes podem ser encontrados
+em um estado passivo.
+Baiacu (Bloaters)
+Os baiacu são o quarto, mais raro e quase o mais perigoso estágio de infecção, pois levam
+mais tempo para se desenvolver, levando anos para chegar a esse estágio. Eles são
+cobertos por fungos espessos que atuam efetivamente como armaduras. Por causa dessa
+cobertura protetora, eles podem suportar vários ataques de armas como a espingarda e o
+rifle de caça e até machados e facões, tornando-os extremamente difíceis de eliminar.
+Rei dos Ratos (Rat King)
+O Rei dos Ratos é o quinto, ainda mais raro que os baiacus sendo conhecido com o estágio
+mais difícil e perigoso do jogo. Além de serem cheios de fungos estranhos e feios causados
+pelo vírus, este estágio conta também com uma coisa horrível... Todos os outros estágios
+juntos, como uma bola de neve de zumbis. Ao certo não possui pontos fracos, por isso
+corra quando encontrar um!
+Formas de propagação do virus
+Existem vários tipos de formas de propagações, mas as principais delas são as que mais tem no
+jogo é:
+Inalando os esporos que estão presentes no ar (e pelas explosões de gás soltadas pelos baiacus e
+pelo rei dos ratos)
+Pelos fluidos da saliva (trazendo a tona a famosa mordida)
